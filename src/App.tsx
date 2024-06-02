@@ -2,6 +2,7 @@ import "./App.css";
 import Watchlist from "./components/Watchlist";
 import Movies from "./components/Movies";
 
+
 function App() {
     return (
         <div className="App">
